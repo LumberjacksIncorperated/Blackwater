@@ -1,3 +1,0 @@
-22:58:21.250044 78:4f:43:4d:45:3a > fc:2d:5e:f2:e8:2d, ethertype IPv4 (0x0800), length 46: 192.168.0.139.49645 > 192.168.0.1.192: UDP, length 4
-22:58:21.254822 fc:2d:5e:f2:e8:2d > 78:4f:43:4d:45:3a, ethertype IPv4 (0x0800), length 74: 192.168.0.1 > 192.168.0.139: ICMP 192.168.0.1 udp port 192 unreachable, length 40
-
